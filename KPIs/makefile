@@ -5,4 +5,4 @@ doxy:
 
 clean:
 	rm -rf search
-	rm -f *.md5 *.png *.css *.html *.js
+	rm -f *.md5 *.png *.css *.html *.js *.dot
